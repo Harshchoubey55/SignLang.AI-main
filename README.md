@@ -50,10 +50,10 @@ pip install mediapipe opencv-python numpy matplotlib scikit-learn
 
 This project template is inspired by advancements in computer vision and machine learning techniques, leveraging Mediapipe and OpenCV for real-time hand gesture translation.
 
+## Collabrators:
+- Sgnik Gangopadhyay: HawkCodeZ (github), amayamix24@gmail.com (mail ID)
+- Neha Singh: MiuChan24 (github), neha.229310161@muj.manipal.edu (mail ID)
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to expand upon this README with additional sections or detailed instructions specific to your implementation and deployment environments.
+This project is licensed under the MIT License.
