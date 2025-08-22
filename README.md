@@ -52,7 +52,7 @@ This project template is inspired by advancements in computer vision and machine
 
 ## Collabrators:
 - Sgnik Gangopadhyay: HawkCodeZ (github), amayamix24@gmail.com (mail ID)
-- Neha Singh: MiuChan24 (github), neha.229310161@muj.manipal.edu (mail ID)
+- Neha Singh: MiuChan24 (github), noctis24x@gmail.com (mail ID)
 
 ## License
 
